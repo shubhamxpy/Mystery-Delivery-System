@@ -4,6 +4,8 @@
 
 This project simulates package delivery operations for the FastBox logistics system.
 
+python code contain in solution.py
+
 The program reads warehouse, agent, and package data from JSON files, assigns packages to nearest agents, simulates deliveries, calculates travel distance, and generates `report.json`.
 
 Extra features:
